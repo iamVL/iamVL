@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77EFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vaishnavi+Lokhande+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Actively+seeking+internship+opportunities;To+apply+and+grow+my+skills" alt="Typing animation intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77EFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vaishnavi+Lokhande+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Actively+seeking+Full-Time+job+opportunities;To+apply+and+grow+my+skills" alt="Typing animation intro" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Engineer-blueviolet?style=flat-square&logo=microsoft&logoColor=white" />
