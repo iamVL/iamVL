@@ -36,10 +36,6 @@
         <td><a href="https://linkedin.com/in/vaishnavi-lokhande000" style="color:#F77EFA;"><strong>linkedin.com/in/vaishnavi-lokhande000</strong></a></td>
       </tr>
       <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20px" style="margin-right:8px;" /> Instagram</td>
-        <td><a href="https://instagram.com/lokhande_vaishhh" style="color:#F77EFA;"><strong>@lokhande_vaishhh</strong></a></td>
-      </tr>
-      <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px" style="margin-right:8px;" /> GitHub</td>
         <td><a href="https://github.com/iamVL" style="color:#F77EFA;"><strong>github.com/iamVL</strong></a></td>
       </tr>
