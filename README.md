@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20Certified-AI%20Fundamentals-4AB3F4?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
-<h3 align="center">Computer Science Undergrad @ UB | Dean's List | SWE + AI/ML + Web Dev Enthusiast</h3>
+<h3 align="center">Computer Science Undergrad @ UB | Dean's List | AI/ML </h3>
 ---
 
 🎯 **Looking for Fall '25 & Spring '26 SWE / ML / Web Dev Internships & Co-ops**  
